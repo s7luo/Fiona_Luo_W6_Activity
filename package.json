@@ -1,0 +1,13 @@
+{
+  "name": "gbda414-week6-pose-simon-says",
+  "version": "1.0.0",
+  "description": "Week 6 p5.js and ml5.js workshop: pose estimation and a simple state machine.",
+  "scripts": {
+    "start": "npx live-server"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/p5": "^1.7.6",
+    "live-server": "^1.2.2"
+  }
+}
